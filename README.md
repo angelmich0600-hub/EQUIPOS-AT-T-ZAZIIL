@@ -185,6 +185,65 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
+  nombre: 'Apple iPhone 15 128GB Negro',
+  imagen: 'https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-black-select-202309?wid=940&hei=1112&fmt=png-alpha&.v=1692925511738',
+  precio: '—',
+  plan: '—',
+  caracteristicas: [
+    'Pantalla 6.1" Super Retina XDR',
+    'Cámara 48 MP + 12 MP',
+    'Procesador Apple A16 Bionic',
+    'USB-C',
+    'Batería hasta 26 horas de video',
+    'Dynamic Island'
+  ]
+},
+{
+  nombre: 'Apple iPhone 14 128GB Azul',
+  imagen: 'https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-blue-select-202209?wid=940&hei=1112&fmt=png-alpha&.v=1662055816190',
+  precio: '—',
+  plan: '—',
+  caracteristicas: [
+    'Pantalla 6.1" Super Retina XDR',
+    'Cámara dual 12 MP con Photonic Engine',
+    'Procesador Apple A15 Bionic (mejorado)',
+    'Batería hasta 20 horas de video',
+    'Detección de accidentes',
+    'iOS 17 / 18 compatible'
+  ]
+},
+
+{
+  nombre: 'Apple iPhone 13 128GB Negro',
+  imagen: '[https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-black-select-2021?wid=940&hei=1112&fmt=png-alpha&.v=1629842707000](https://storage.comprasmartphone.com/smartphones/apple-iphone-13.png)',
+  precio: '—',
+  plan: '—',
+  caracteristicas: [
+    'Pantalla 6.1" Super Retina XDR',
+    'Cámara dual 12 MP (Wide + Ultra Wide)',
+    'Procesador Apple A15 Bionic',
+    'Batería hasta 19 horas de video',
+    'Face ID',
+    'iOS 17 / 18 compatible'
+  ]
+},
+
+{
+  nombre: 'Apple iPhone 15 128GB ROSA',
+  imagen: '[[https://images.samsung.com/is/image/samsung/p6pim/mx/galaxy-s24-ultra-black.png](https://macstoreonline.com.mx/img/sku/IPHONE629_FZ.jpg](https://macstoreonline.com.mx/img/sku/IPHONE629_FZ.jpg))',
+  precio: '$',
+  plan: 'A',
+  caracteristicas: [
+    'Pantalla 6.1" Super Retina XDR',
+    'Cámara 48 MP + 12 MP',
+    'Procesador Apple A16 Bionic',
+    'USB-C',
+    'Batería hasta 26 horas de video',
+    'Dynamic Island'
+  ]
+},
+
+{
   nombre: 'Apple iPhone 16E 128GB Negro',
   imagen: 'https://resources.sanborns.com.mx/medios-plazavip/t1/1748021533iphone16eback1png?scale=50&qlty=75',
   precio: '—',
