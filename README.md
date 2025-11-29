@@ -695,7 +695,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'EQUIPO POSIBLE',
+  nombre: 'PROXIMAMENTE',
   imagen: '',
   precio: '—',
   plan: '—',
