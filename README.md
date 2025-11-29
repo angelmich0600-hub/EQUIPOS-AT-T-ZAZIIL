@@ -215,7 +215,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 
 {
   nombre: 'Apple iPhone 13 128GB Negro',
-  imagen: '[https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-black-select-2021?wid=940&hei=1112&fmt=png-alpha&.v=1629842707000](https://storage.comprasmartphone.com/smartphones/apple-iphone-13.png)',
+  imagen: 'https://macstoreonline.com.mx/img/sku/iphone474_FZ.jpg',
   precio: '—',
   plan: '—',
   caracteristicas: [
@@ -228,9 +228,10 @@ nombre: 'Samsung Galaxy A16 128GB Black',
   ]
 },
 
+
 {
   nombre: 'Apple iPhone 15 128GB ROSA',
-  imagen: '[[https://images.samsung.com/is/image/samsung/p6pim/mx/galaxy-s24-ultra-black.png](https://macstoreonline.com.mx/img/sku/IPHONE629_FZ.jpg](https://macstoreonline.com.mx/img/sku/IPHONE629_FZ.jpg))',
+  imagen: 'https://macstoreonline.com.mx/img/sku/iphone649_FZ.jpg',
   precio: '$',
   plan: 'A',
   caracteristicas: [
