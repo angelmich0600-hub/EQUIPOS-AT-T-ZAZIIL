@@ -146,10 +146,11 @@
 <body>
 
 <h1>
-  <h1>!BUSCA EL QUE MAS TE GUSTE!</h1>
-
-
+  <img src="https://i.postimg.cc/sxBB5PWQ/Diseno-sin-titulo.jpg" alt="imagen" style="width:150px; height:auto;">
+  <br>
+  ¡BUSCA EL QUE MAS TE GUSTE!
 </h1>
+
 
 
 <!-- 🔵 BUSCADOR FIJO -->
