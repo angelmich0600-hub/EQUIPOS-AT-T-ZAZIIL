@@ -171,7 +171,7 @@
 const equipos = [
 /* AQUI VA TODA TU LISTA ORIGINAL — NO SE CAMBIÓ NADA */
 {
-nombre: 'Samsung Galaxy A16 128GB Black',
+nombre: 'Samsung Galaxy A16 128GB Black  2pz',
   imagen: 'https://images.samsung.com/is/image/samsung/p6pim/mx/sm-a165mzkaltm/gallery/mx-galaxy-a16-sm-a165-sm-a165mzkaltm-544305569?$Q90_1248_936_F_PNG$',
   precio: '$799',
   plan: 'AZUL 3',
@@ -306,7 +306,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'Google Pixel 10 128GB Obsidian',
+  nombre: 'Google Pixel 10 128GB Obsidian 2pz',
   imagen: 'https://d1erhn8sljv386.cloudfront.net/Pf4XhY31nJJRYg6KszdmfEGsYF4=/fit-in/800x0/https://s3.amazonaws.com/lmbucket0/media/product/t-mobile-google-pixel-10-backimage-obsidian.20fc6eaa6f7954fe2990acefc6b4aeda509905e2.png',
   precio: '—',
   plan: '—',
@@ -321,7 +321,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'Google Pixel 10 Pro 256GB Moonstone',
+  nombre: 'Google Pixel 10 Pro 256GB Moonstone 2 pz',
   imagen: 'https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/Google/Google-Pixel-10-Pro/Moonstone/Google-Pixel-10-Pro-Moonstone-leftimage.png',
   precio: '—',
   plan: '—',
@@ -336,7 +336,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'Google Pixel 10 Pro XL 256GB Porcelain',
+  nombre: 'Google Pixel 10 Pro XL 256GB Porcelain 2pz',
   imagen: 'https://cdn.shopify.com/s/files/1/0448/8921/1040/files/unnamed_8_2.webp?v=1756067040',
   precio: '—',
   plan: '—',
@@ -366,7 +366,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'Google Pixel 9A 128GB Porcelain',
+  nombre: 'Google Pixel 9A 128GB Porcelain 2pz',
   imagen: 'https://revendo.ch/cdn/shop/files/google-pixel-9a-google-tensor-g4-4-nm-9a-porcelain-beige-guenstig-gebraucht-kaufen-00.png?v=1746726576',
   precio: '—',
   plan: '—',
@@ -381,7 +381,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'Honor 400 BDL Headphone Black',
+  nombre: 'Honor 400 BDL Headphone Black  3 pz',
   imagen: 'https://tienda.movistar.com.mx/media/catalog/product/cache/087d8656b93b378449aad7de37c3d04e/b/u/bundle.png',
   precio: '—',
   plan: '—',
@@ -396,7 +396,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'Honor 400 BDL Headphone Gold',
+  nombre: 'Honor 400 BDL Headphone Gold  3pz',
   imagen: 'https://www.dxomark.com/wp-content/uploads/medias/post-184771/Honor-400-Featured-image.png',
   precio: '—',
   plan: '—',
@@ -441,7 +441,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'Honor Magic7 Lite BDL Headphones 5G Jcyan',
+  nombre: 'Honor Magic7 Lite BDL Headphones 5G Jcyan  2pz',
   imagen: 'https://tiendahonor.cr/wp-content/uploads/2025/01/MKT_Bruce_Identity-Pictures_%E9%9D%92%E8%89%B2Cyan_%E7%BA%AF%E8%83%8CBack_RGB_PNG_20240814-2.png',
   precio: '—',
   plan: '—',
@@ -486,7 +486,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'Honor X6C Cyan',
+  nombre: 'Honor X6C Cyan  4pz',
   imagen: 'https://www.honor.com/content/dam/honor/common/product-list/product-series/honor-x6c/honor-x6c-g-list.png',
   precio: '—',
   plan: '—',
@@ -516,7 +516,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'Honor X7D Velvet Black',
+  nombre: 'Honor X7D Velvet Black  2pz',
   imagen: 'https://miamicenters.com/wp-content/uploads/2025/09/x7dd-blackk.png',
   precio: '—',
   plan: '—',
@@ -591,7 +591,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'iPhone 16 Pro Max 256GB Titanio Negro',
+  nombre: 'iPhone 16 Pro Max 256GB Titanio Negro  3pz',
   imagen: 'https://tienda.movistar.com.mx/pub/media/catalog/product/i/p/iphone16promaxnegro.png',
   precio: '$1,521',
   plan: 'BLACK A 24 MESES CON $8,697 DE ENGACHE',
@@ -606,7 +606,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'Motorola Moto G05 Verde',
+  nombre: 'Motorola Moto G05 Verde  2pz',
   imagen: 'https://mxmoto.vtexassets.com/arquivos/ids/170403/MotoG05-VerdeProfundo-Hero.png?v=638681517847370000',
   precio: '—',
   plan: '—',
@@ -666,7 +666,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'Motorola Moto G56 5G Azul',
+  nombre: 'Motorola Moto G56 5G Azul  2pz',
   imagen: 'https://mxmoto.vtexassets.com/arquivos/ids/171753-800-auto?v=638832717390770000&width=800&height=auto&aspect=true',
   precio: '—',
   plan: '—',
@@ -681,7 +681,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'Motorola Moto G56 5G Gris',
+  nombre: 'Motorola Moto G56 5G Gris  2pz',
   imagen: 'https://tienda.movistar.com.mx/media/catalog/product/cache/087d8656b93b378449aad7de37c3d04e/m/o/motog56_gris_dual.png',
   precio: '—',
   plan: '—',
@@ -696,7 +696,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'Oppo A40 4G Lila',
+  nombre: 'Oppo A40 4G Lila  2pz',
   imagen: 'https://tienda.movistar.com.mx/media/catalog/product/cache/dfb1fdb7a1cc7d82dc65a70ab5260406/t/m/tmlmxopopa40li00.png',
   precio: '—',
   plan: '—',
@@ -816,7 +816,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'Samsung Galaxy A56 5G Black',
+  nombre: 'Samsung Galaxy A56 5G Black   3pz',
   imagen: 'https://media.flixcar.com/webp/synd-asset/Samsung-317738145-latin-galaxy-a56-5g-sm-a566-sm-a566ezkdgto-545622606--Download-Source--zoom.png',
   precio: '—',
   plan: '—',
@@ -846,7 +846,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'Samsung Galaxy S25 FE Black',
+  nombre: 'Samsung Galaxy S25 FE Black   4pz',
   imagen: 'https://images.samsung.com/is/image/samsung/p6pim/mx/sm-s731bzkmltm/gallery/mx-galaxy-s25-fe-sm-s731-sm-s731bzkmltm-thumb-549045817',
   precio: '—',
   plan: '—',
@@ -876,7 +876,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'Xiaomi 15T BDL Sound Outdoor Black',
+  nombre: 'Xiaomi 15T BDL Sound Outdoor Black  2pz',
   imagen: 'https://xiaomistore.com.hn/wp-content/uploads/Combo_Nov_HN_Xiaomi_15T_Pro.webp',
   precio: '—',
   plan: '—',
@@ -936,7 +936,7 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'Xiaomi Redmi 14C 128GB Blue',
+  nombre: 'Xiaomi Redmi 14C 128GB Blue  2pz',
   imagen: 'https://imports77.com/cdn/shop/files/CelularRedmi14C4_128Gb-AzulAstral.png?v=1736449834',
   precio: '—',
   plan: '—',
@@ -977,21 +977,6 @@ nombre: 'Samsung Galaxy A16 128GB Black',
     'Procesador Helio A22',
     'Android 13 Go',
     'RAM 3GB'
-  ]
-},
-
-{
-  nombre: 'Xiaomi Redmi Note 14 Negro',
-  imagen: 'https://flashfil.com/images/thumbs/0002303_xiaomi-redmi-note-14-negro-6gb-ram-128gb-dual-sim-mx_550.png',
-  precio: '—',
-  plan: '—',
-  caracteristicas: [
-    'Pantalla AMOLED 120Hz',
-    'Cámara 108 MP',
-    'Procesador Snapdragon 7s Gen 2',
-    'Batería 5000 mAh',
-    'Carga 67W',
-    'MIUI 16'
   ]
 },
 
