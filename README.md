@@ -606,21 +606,6 @@ nombre: 'Samsung Galaxy A16 128GB Black',
 },
 
 {
-  nombre: 'Motorola Edge 50 Gris',
-  imagen: 'https://mxmoto.vtexassets.com/arquivos/ids/169775-800-auto?v=638749756088430000&width=800&height=auto&aspect=true',
-  precio: '—',
-  plan: '—',
-  caracteristicas: [
-    'Pantalla 6.6" pOLED 144Hz',
-    'Cámara 50 MP OIS',
-    'Procesador Snapdragon 7 Gen 3',
-    'Batería 4500 mAh',
-    'Carga 68W',
-    'Android 14'
-  ]
-},
-
-{
   nombre: 'Motorola Moto G05 Verde',
   imagen: 'https://mxmoto.vtexassets.com/arquivos/ids/170403/MotoG05-VerdeProfundo-Hero.png?v=638681517847370000',
   precio: '—',
