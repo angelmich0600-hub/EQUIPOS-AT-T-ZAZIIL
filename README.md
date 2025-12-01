@@ -146,7 +146,7 @@
 <body>
 
 <h1>
-  <img src="https://i.postimg.cc/sxBB5PWQ/Diseno-sin-titulo.jpg" alt="imagen" style="width:150px; height:auto;">
+  <img src="https://i.postimg.cc/sxBB5PWQ/Diseno-sin-titulo.jpg" alt="imagen" style="width:250px; height:auto;">
   <br>
   ¡BUSCA EL QUE MAS TE GUSTE!
 </h1>
