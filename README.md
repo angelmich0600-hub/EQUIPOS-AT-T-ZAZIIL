@@ -310,15 +310,17 @@ const equipos = [
 {
   nombre: 'Google Pixel 10 128GB Obsidian 2pz',
   imagen: 'https://d1erhn8sljv386.cloudfront.net/Pf4XhY31nJJRYg6KszdmfEGsYF4=/fit-in/800x0/https://s3.amazonaws.com/lmbucket0/media/product/t-mobile-google-pixel-10-backimage-obsidian.20fc6eaa6f7954fe2990acefc6b4aeda509905e2.png',
-  precio: '—',
-  plan: '—',
+  precio: '$1,425 Mensual',
+  plan: 'Black a 24 meses con 35% de enganche',
   caracteristicas: [
     'Pantalla 6.4" OLED 120Hz',
     'Procesador Google Tensor G5',
     'Cámara 50 MP con IA avanzada',
     'Batería 5100 mAh',
     'Android 16',
-    '7 años de actualizaciones'
+    '7 años de actualizaciones',
+    'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -333,7 +335,9 @@ const equipos = [
     'Tensor G5 Pro',
     'Batería 5300 mAh',
     'Carga 45W',
-    'Android 16'
+    'Android 16',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -348,7 +352,9 @@ const equipos = [
     'Tensor G5 Extreme',
     'Batería 5500 mAh',
     'Android 16',
-    '7 años de parches'
+    '7 años de parches',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -363,7 +369,9 @@ const equipos = [
     'Tensor G5 Extreme',
     'Batería 5500 mAh',
     'Carga rápida 50W',
-    'Android 16'
+    'Android 16',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -378,7 +386,9 @@ const equipos = [
     'Procesador Tensor G4',
     'Batería 4300 mAh',
     'Android 15',
-    'IA integrada'
+    'IA integrada',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -393,7 +403,9 @@ const equipos = [
     'Conectividad Bluetooth 5.3',
     'Autonomía 30 horas',
     'Carga USB-C',
-    'Micrófono dual'
+    'Micrófono dual',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -408,7 +420,9 @@ const equipos = [
     'Bluetooth 5.3',
     'Autonomía 30h',
     'Diseño cómodo',
-    'Carga rápida'
+    'Carga rápida',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -423,7 +437,9 @@ const equipos = [
     'Procesador Snapdragon 6 Gen 1',
     'Batería 5300 mAh',
     'Carga 35W',
-    'RAM 8GB'
+    'RAM 8GB',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -438,7 +454,9 @@ const equipos = [
     'Batería 5300 mAh',
     'Snapdragon 6 Gen 1',
     'MagicOS 8',
-    'RAM 8GB'
+    'RAM 8GB',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -453,7 +471,9 @@ const equipos = [
     'Snapdragon 7s Gen 2',
     'Batería 5100 mAh',
     '5G',
-    'Incluye audífonos'
+    'Incluye audífonos',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -468,7 +488,9 @@ const equipos = [
     'Procesador Octa-Core',
     'Batería 5000 mAh',
     'Android 14',
-    'Almacenamiento 128GB'
+    'Almacenamiento 128GB',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -483,7 +505,9 @@ const equipos = [
     'Batería 5000 mAh',
     'Android 14',
     'Procesador Octa-Core',
-    'Diseño resistente'
+    'Diseño resistente',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -498,7 +522,9 @@ const equipos = [
     'Procesador MediaTek G36',
     'Batería 5200 mAh',
     'RAM 4GB',
-    'Android 14'
+    'Android 14',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -513,7 +539,9 @@ const equipos = [
     'Procesador Snapdragon 480+',
     'Batería 5000 mAh',
     'Android 14',
-    'Carga rápida 22W'
+    'Carga rápida 22W',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -528,7 +556,9 @@ const equipos = [
     '5G',
     'Batería 5000 mAh',
     'Android 14',
-    'Diseño elegante'
+    'Diseño elegante',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -543,7 +573,9 @@ const equipos = [
     'Cámara 108 MP',
     'Batería 5000 mAh',
     'Carga 30W',
-    'RAM 8GB'
+    'RAM 8GB',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -558,7 +590,9 @@ const equipos = [
     'Chip A18',
     'Batería de larga duración',
     'USB-C',
-    'iOS 18'
+    'iOS 18',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -573,7 +607,9 @@ const equipos = [
     'A18 Pro',
     'Cámara 48 MP Pro',
     'USB-C Thunderbolt',
-    'iOS 18'
+    'iOS 18',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -588,7 +624,9 @@ const equipos = [
     'Chip A18 Pro Max',
     'Titanio Blanco',
     'Batería grande',
-    'iOS 18'
+    'iOS 18',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -603,7 +641,9 @@ const equipos = [
     'Titanio Black Edition',
     'A18 Pro Max',
     'USB-C',
-    'iOS 18'
+    'iOS 18',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -618,7 +658,9 @@ const equipos = [
     'Procesador Unisoc T606',
     'Batería 5000 mAh',
     'RAM 4GB',
-    'Android 14'
+    'Android 14',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -633,7 +675,9 @@ const equipos = [
     'Snapdragon 6 Gen 1',
     'Batería 5000 mAh',
     'Carga 30W',
-    'Android 15'
+    'Android 15',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -648,7 +692,9 @@ const equipos = [
     '5G',
     'Snapdragon 6 Gen 1',
     '5000 mAh',
-    'Android 15'
+    'Android 15',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -663,7 +709,9 @@ const equipos = [
     'Cámara 50 MP',
     'Batería 5000 mAh',
     'Android 14',
-    'RAM 4GB'
+    'RAM 4GB',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -678,7 +726,9 @@ const equipos = [
     'Procesador Snapdragon 4 Gen 2',
     'Batería 5000 mAh',
     '5G',
-    'Android 14'
+    'Android 14',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -693,7 +743,9 @@ const equipos = [
     'Cámara 50 MP',
     '5000 mAh',
     'USB-C',
-    'Android 14'
+    'Android 14',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -708,7 +760,9 @@ const equipos = [
     'Procesador Helio G35',
     'Batería 5000 mAh',
     'ColorOS 14',
-    'RAM 4GB'
+    'RAM 4GB',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -723,7 +777,9 @@ const equipos = [
     'Procesador Dimensity 7050',
     '5G',
     'Batería 5000 mAh',
-    'Incluye Enco Buds 3'
+    'Incluye Enco Buds 3',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -738,7 +794,9 @@ const equipos = [
     'Snapdragon 8 Gen 4',
     'Batería 5400 mAh',
     'Carga 100W',
-    'RAM 12GB'
+    'RAM 12GB',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -753,7 +811,9 @@ const equipos = [
     'Procesador Snapdragon 7 Gen 2',
     'Batería 5000 mAh',
     'Carga 80W',
-    'Incluye audífonos'
+    'Incluye audífonos',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -768,7 +828,9 @@ const equipos = [
     '5G',
     'Snapdragon 7 Gen 2',
     '5000 mAh',
-    'Audífonos incluidos'
+    'Audífonos incluidos',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -783,7 +845,9 @@ const equipos = [
     'Procesador Exynos',
     'Batería 5000 mAh',
     'Android 14',
-    'Diseño elegante'
+    'Diseño elegante',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -798,7 +862,9 @@ const equipos = [
     'Procesador Helio G99',
     '5000 mAh',
     'OneUI 6',
-    'Almacenamiento 128GB'
+    'Almacenamiento 128GB',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -813,7 +879,9 @@ const equipos = [
     'Procesador Exynos 1280',
     'Batería 5000 mAh',
     '5G',
-    'Android 14'
+    'Android 14',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -828,7 +896,9 @@ const equipos = [
     'Procesador Snapdragon 7 Gen 1',
     'Batería 5000 mAh',
     'Carga 25W',
-    'RAM 8GB'
+    'RAM 8GB',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -843,7 +913,9 @@ const equipos = [
     'Procesador Snapdragon 8 Gen 4',
     'Batería 4800 mAh',
     'Android 16',
-    'Carga 45W'
+    'Carga 45W',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -858,7 +930,9 @@ const equipos = [
     'Exynos 2500',
     'Batería 4500 mAh',
     'Carga rápida',
-    'Diseño premium'
+    'Diseño premium',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -873,7 +947,9 @@ const equipos = [
     'Procesador Snapdragon 8 Gen 3',
     'Cámara 50 MP',
     'Batería 4000 mAh',
-    'Carga rápida 25W'
+    'Carga rápida 25W',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -888,7 +964,9 @@ const equipos = [
     'Cámara 64 MP',
     'Snapdragon 7s Gen 2',
     'Batería 5000 mAh',
-    'Carga 67W'
+    'Carga 67W',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -903,7 +981,9 @@ const equipos = [
     'Cámara 64 MP',
     'Batería 5000 mAh',
     'Carga 67W',
-    'MIUI 15'
+    'MIUI 15',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -918,7 +998,9 @@ const equipos = [
     'Cámara 108 MP',
     'Snapdragon 8 Gen 3',
     'Carga 120W',
-    'RAM 12GB'
+    'RAM 12GB',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -933,7 +1015,9 @@ const equipos = [
     'Batería 5000 mAh',
     'Procesador Helio G36',
     'Android 14',
-    'Dual SIM'
+    'Dual SIM',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -948,7 +1032,9 @@ const equipos = [
     '5000 mAh',
     'Cámara 13 MP',
     'MIUI 15',
-    'Almacenamiento 128GB'
+    'Almacenamiento 128GB',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -963,7 +1049,9 @@ const equipos = [
     'Procesador Helio G99',
     'Batería 5000 mAh',
     'Carga 33W',
-    'MIUI 15'
+    'MIUI 15',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
@@ -978,7 +1066,9 @@ const equipos = [
     'Batería 5000 mAh',
     'Procesador Helio A22',
     'Android 13 Go',
-    'RAM 3GB'
+    'RAM 3GB',
+        'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
