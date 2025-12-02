@@ -236,7 +236,7 @@ const equipos = [
     'SEGURO DE PROTECCIÓN',
     'CONTROL DE DATOS'
   ]
-}
+},
 
 
 {
