@@ -327,8 +327,8 @@ const equipos = [
 {
   nombre: 'Google Pixel 10 Pro 256GB Moonstone 2 pz',
   imagen: 'https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/Google/Google-Pixel-10-Pro/Moonstone/Google-Pixel-10-Pro-Moonstone-leftimage.png',
-  precio: '—',
-  plan: '—',
+  precio: '$1,597 Mensual',
+  plan: 'Black a 24 meses con 35% de engache',
   caracteristicas: [
     'Pantalla 6.7" LTPO AMOLED 120Hz',
     'Cámara triple 50 MP Pro',
@@ -344,8 +344,8 @@ const equipos = [
 {
   nombre: 'Google Pixel 10 Pro XL 256GB Porcelain 2pz',
   imagen: 'https://cdn.shopify.com/s/files/1/0448/8921/1040/files/unnamed_8_2.webp?v=1756067040',
-  precio: '—',
-  plan: '—',
+  precio: '$1,649 Mensual',
+  plan: 'Black a 24 meses con enganche del 35%',
   caracteristicas: [
     'Pantalla 6.9" LTPO 120Hz',
     'Cámara 50 MP ultra pro',
@@ -361,8 +361,8 @@ const equipos = [
 {
   nombre: 'Google Pixel 10 Pro XL 512GB Obsidian',
   imagen: 'https://www.gsmpro.com/cdn/shop/files/unnamed_11_2.webp?v=1756067040&width=1554',
-  precio: '—',
-  plan: '—',
+  precio: '$1,740 Mensual',
+  plan: 'Black a 24 meses con 35% de enganche.',
   caracteristicas: [
     'Pantalla gigante 6.9" 120Hz',
     'Cámara IA 50 MP avanzada',
@@ -378,8 +378,8 @@ const equipos = [
 {
   nombre: 'Google Pixel 9A 128GB Porcelain 2pz',
   imagen: 'https://revendo.ch/cdn/shop/files/google-pixel-9a-google-tensor-g4-4-nm-9a-porcelain-beige-guenstig-gebraucht-kaufen-00.png?v=1746726576',
-  precio: '—',
-  plan: '—',
+  precio: '$1,225 Mensual',
+  plan: 'Black a 24 meses con 35% de enganche.',
   caracteristicas: [
     'Pantalla 6.1" OLED',
     'Cámara 12 MP Pixel Camera',
@@ -395,8 +395,8 @@ const equipos = [
 {
   nombre: 'Honor 400 BDL Headphone Black  3 pz',
   imagen: 'https://tienda.movistar.com.mx/media/catalog/product/cache/087d8656b93b378449aad7de37c3d04e/b/u/bundle.png',
-  precio: '—',
-  plan: '—',
+  precio: '$1,175 Mensual',
+  plan: 'Black a 24 meses con 35% de engache.',
   caracteristicas: [
     'Audífonos inalámbricos',
     'Cancelación de ruido',
@@ -412,8 +412,8 @@ const equipos = [
 {
   nombre: 'Honor 400 BDL Headphone Gold  3pz',
   imagen: 'https://www.dxomark.com/wp-content/uploads/medias/post-184771/Honor-400-Featured-image.png',
-  precio: '—',
-  plan: '—',
+  precio: '$1,175 Mensual',
+  plan: 'Black a 24 meses con 35% de engache.',
   caracteristicas: [
     'Edición dorada premium',
     'Cancelación activa',
@@ -429,8 +429,8 @@ const equipos = [
 {
   nombre: 'Honor Magic6 Lite Orange',
   imagen: 'https://www.honor.com/content/dam/honor/es/shop/1560-1170/m6l-1212.png',
-  precio: '—',
-  plan: '—',
+  precio: '$720 Mensual',
+  plan: 'Azul 2 a 36 meses con 35% de engache.',
   caracteristicas: [
     'Pantalla curva 6.78" AMOLED',
     'Cámara 108 MP',
@@ -446,8 +446,8 @@ const equipos = [
 {
   nombre: 'Honor Magic6 Lite Silver',
   imagen: 'https://www.honor.com/content/dam/honor/mx/products/smartphone/honor-magic6-lite/imgs/sec4-new/sec4-phone-bg-mb.png',
-  precio: '—',
-  plan: '—',
+  precio: '$720 Mensual',
+  plan: 'Azul 2 a 36 meses con 35% de engache.',
   caracteristicas: [
     'Pantalla AMOLED 120Hz',
     'Cámara 108 MP',
@@ -463,8 +463,8 @@ const equipos = [
 {
   nombre: 'Honor Magic7 Lite BDL Headphones 5G Jcyan  2pz',
   imagen: 'https://tiendahonor.cr/wp-content/uploads/2025/01/MKT_Bruce_Identity-Pictures_%E9%9D%92%E8%89%B2Cyan_%E7%BA%AF%E8%83%8CBack_RGB_PNG_20240814-2.png',
-  precio: '—',
-  plan: '—',
+  precio: '$970 Mensual',
+  plan: 'Plata a 30 meses con 35% de engache.',
   caracteristicas: [
     'Pantalla AMOLED 120Hz',
     'Cámara 108 MP',
@@ -480,8 +480,8 @@ const equipos = [
 {
   nombre: 'Honor X5C Plus Meteor Silver',
   imagen: 'https://texnohome.az/image/cache/catalog/21.10.2025/cdn-cgi-39-1200x630.png',
-  precio: '—',
-  plan: '—',
+  precio: '$495 Mensual',
+  plan: 'Azul 1 a 24 meses SIN ENGANCHE.',
   caracteristicas: [
     'Pantalla 6.56" HD+',
     'Cámara 50 MP',
@@ -497,8 +497,8 @@ const equipos = [
 {
   nombre: 'Honor X5C Plus Ocean Cyan',
   imagen: 'https://catalog.sixty60.co.za/v2/files/68e90439ed336b2f66207bbe?width=1440&height=1440',
-  precio: '—',
-  plan: '—',
+  precio: '$495 Mensual',
+  plan: 'Azul 1 a 24 meses SIN ENGANCHE.',
   caracteristicas: [
     'Pantalla 6.56" HD+',
     'Cámara 50 MP',
@@ -514,8 +514,8 @@ const equipos = [
 {
   nombre: 'Honor X6C Cyan  4pz',
   imagen: 'https://www.honor.com/content/dam/honor/common/product-list/product-series/honor-x6c/honor-x6c-g-list.png',
-  precio: '—',
-  plan: '—',
+  precio: '$601 Mensual',
+  plan: 'Azul 2 con 35% de engache.',
   caracteristicas: [
     'Pantalla 6.56" IPS',
     'Cámara 50 MP',
@@ -531,8 +531,8 @@ const equipos = [
 {
   nombre: 'Honor X7D Desert Gold',
   imagen: 'https://www.honor.com/content/dam/honor/common/product-list/product-series/honor-x7d/honor-x7d-gold-list.png',
-  precio: '—',
-  plan: '—',
+  precio: '$770 Mensual',
+  plan: 'Azul 3 a 24 meses con 35% de engache.',
   caracteristicas: [
     'Pantalla 6.74" 90Hz',
     'Cámara 50 MP',
@@ -548,8 +548,8 @@ const equipos = [
 {
   nombre: 'Honor X7D Velvet Black  2pz',
   imagen: 'https://miamicenters.com/wp-content/uploads/2025/09/x7dd-blackk.png',
-  precio: '—',
-  plan: '—',
+  precio: '$770 Mensual',
+  plan: 'Azul 3 a 24 meses con 35% de engache.',
   caracteristicas: [
     'Pantalla 6.74" HD+',
     'Cámara 50 MP',
