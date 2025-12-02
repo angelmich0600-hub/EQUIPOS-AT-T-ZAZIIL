@@ -250,7 +250,7 @@ const equipos = [
     'Procesador Apple A17 Fusion',
     'Batería con hasta 20h de video',
     'iOS 18',
-    'Face ID mejorado'
+    'Face ID mejorado',
     'SEGURO DE PROTECCIÓN',
     'CONTROL DE DATOS'
   ]
@@ -267,7 +267,7 @@ const equipos = [
     'Procesador Apple A19 Pro',
     'Titanium Series 3',
     'iOS 19',
-    'USB-C Thunderbolt ,
+    'USB-C Thunderbolt',
     'SEGURO DE PROTECCIÓN',
     'CONTROL DE DATOS'
   ]
@@ -284,7 +284,7 @@ const equipos = [
     'Chip A19 Pro',
     'Carga rápida 30W',
     'iOS 19',
-    'Resistencia IP68'
+    'Resistencia IP68',
     'SEGURO DE PROTECCIÓN',
     'CONTROL DE DATOS' 
   ]
@@ -301,7 +301,7 @@ const equipos = [
     'Cámara Pro de 48 MP',
     'Titanio pulido',
     'Batería mejorada',
-    'iOS 19'
+    'iOS 19',
     'SEGURO DE PROTECCIÓN',
     'CONTROL DE DATOS'
   ]
