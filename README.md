@@ -171,7 +171,7 @@
 const equipos = [
 /* AQUI VA TODA TU LISTA ORIGINAL — NO SE CAMBIÓ NADA */
 {
-nombre: 'Samsung Galaxy A16 128GB Black  2pz',
+  nombre: 'Samsung Galaxy A16 128GB Black 2pz',
   imagen: 'https://images.samsung.com/is/image/samsung/p6pim/mx/sm-a165mzkaltm/gallery/mx-galaxy-a16-sm-a165-sm-a165mzkaltm-544305569?$Q90_1248_936_F_PNG$',
   precio: '$766 Mensual',
   plan: 'AZUL 3 a 24 meses con 35% de engache.',
@@ -181,8 +181,8 @@ nombre: 'Samsung Galaxy A16 128GB Black  2pz',
     'Procesador MediaTek Helio G80',
     'Batería 5000 mAh',
     'Android 14',
-    'RAM 4GB Y 128GB'
-    'SEGURO DE PROTECCIÓN'
+    'RAM 4GB Y 128GB',
+    'SEGURO DE PROTECCIÓN',
     'CONTROL DE DATOS'
   ]
 },
@@ -198,45 +198,46 @@ nombre: 'Samsung Galaxy A16 128GB Black  2pz',
     'Procesador Apple A16 Bionic',
     'USB-C',
     'Batería hasta 26 horas de video',
-    'Dynamic Island'
-    'SEGURO DE PROTECCIÓN'
+    'Dynamic Island',
+    'SEGURO DE PROTECCIÓN',
     'CONTROL DE DATOS'
   ]
 },
-
 
 {
   nombre: 'Apple iPhone 13 128GB Negro',
   imagen: 'https://macstoreonline.com.mx/img/sku/iphone474_FZ.jpg',
   precio: '$1,343 Mensual',
-  plan: 'Platino a 30 meses con 35% de enganche. ',
+  plan: 'Platino a 30 meses con 35% de enganche.',
   caracteristicas: [
     'Pantalla 6.1" Super Retina XDR',
     'Cámara dual 12 MP (Wide + Ultra Wide)',
     'Procesador Apple A15 Bionic',
     'Batería hasta 19 horas de video',
     'Face ID',
-    'iOS 17 / 18 compatible'
-    'SEGURO DE PROTECCIÓN'
+    'iOS 17 / 18 compatible',
+    'SEGURO DE PROTECCIÓN',
     'CONTROL DE DATOS'
   ]
 },
 
-
 {
-  nombre: 'Apple iPhone 15 128GB ROSA',
-  imagen: 'https://macstoreonline.com.mx/img/sku/iphone649_FZ.jpg',
-  precio: '$',
-  plan: 'A',
+  nombre: 'Apple iPhone 15 128GB Rosa',
+  imagen: 'https://macstoreonline.com.mx/img/sku/iphone634_FZ.jpg',
+  precio: '$1,253 Mensual',
+  plan: 'Black a 36 meses con 35% de engache.',
   caracteristicas: [
     'Pantalla 6.1" Super Retina XDR',
     'Cámara 48 MP + 12 MP',
     'Procesador Apple A16 Bionic',
     'USB-C',
     'Batería hasta 26 horas de video',
-    'Dynamic Island'
+    'Dynamic Island',
+    'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
-},
+}
+
 
 {
   nombre: 'Apple iPhone 16E 128GB Negro',
