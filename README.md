@@ -173,23 +173,25 @@ const equipos = [
 {
 nombre: 'Samsung Galaxy A16 128GB Black  2pz',
   imagen: 'https://images.samsung.com/is/image/samsung/p6pim/mx/sm-a165mzkaltm/gallery/mx-galaxy-a16-sm-a165-sm-a165mzkaltm-544305569?$Q90_1248_936_F_PNG$',
-  precio: '$799',
-  plan: 'AZUL 3',
+  precio: '$766 Mensual',
+  plan: 'AZUL 3 a 24 meses con 35% de engache.',
   caracteristicas: [
     'Pantalla 6.6" FHD+ LCD 90Hz',
     'Cámara 50 MP + 2 MP + 2 MP',
     'Procesador MediaTek Helio G80',
     'Batería 5000 mAh',
     'Android 14',
-    'RAM 4GB / 6GB'
+    'RAM 4GB Y 128GB'
+    'SEGURO DE PROTECCIÓN'
+    'CONTROL DE DATOS'
   ]
 },
 
 {
   nombre: 'Apple iPhone 15 128GB Negro',
   imagen: 'https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-black-select-202309?wid=940&hei=1112&fmt=png-alpha&.v=1692925511738',
-  precio: '—',
-  plan: '—',
+  precio: '$1,253 Mensual',
+  plan: 'Black a 36 meses con 35% de engache.',
   caracteristicas: [
     'Pantalla 6.1" Super Retina XDR',
     'Cámara 48 MP + 12 MP',
@@ -197,28 +199,17 @@ nombre: 'Samsung Galaxy A16 128GB Black  2pz',
     'USB-C',
     'Batería hasta 26 horas de video',
     'Dynamic Island'
+    'SEGURO DE PROTECCIÓN'
+    'CONTROL DE DATOS'
   ]
 },
-{
-  nombre: 'Apple iPhone 14 128GB Azul',
-  imagen: 'https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-blue-select-202209?wid=940&hei=1112&fmt=png-alpha&.v=1662055816190',
-  precio: '—',
-  plan: '—',
-  caracteristicas: [
-    'Pantalla 6.1" Super Retina XDR',
-    'Cámara dual 12 MP con Photonic Engine',
-    'Procesador Apple A15 Bionic (mejorado)',
-    'Batería hasta 20 horas de video',
-    'Detección de accidentes',
-    'iOS 17 / 18 compatible'
-  ]
-},
+
 
 {
   nombre: 'Apple iPhone 13 128GB Negro',
   imagen: 'https://macstoreonline.com.mx/img/sku/iphone474_FZ.jpg',
-  precio: '—',
-  plan: '—',
+  precio: '$1,343 Mensual',
+  plan: 'Platino a 30 meses con 35% de enganche. ',
   caracteristicas: [
     'Pantalla 6.1" Super Retina XDR',
     'Cámara dual 12 MP (Wide + Ultra Wide)',
@@ -226,6 +217,8 @@ nombre: 'Samsung Galaxy A16 128GB Black  2pz',
     'Batería hasta 19 horas de video',
     'Face ID',
     'iOS 17 / 18 compatible'
+    'SEGURO DE PROTECCIÓN'
+    'CONTROL DE DATOS'
   ]
 },
 
