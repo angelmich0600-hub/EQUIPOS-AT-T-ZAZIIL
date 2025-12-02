@@ -242,8 +242,8 @@ const equipos = [
 {
   nombre: 'Apple iPhone 16E 128GB Negro',
   imagen: 'https://resources.sanborns.com.mx/medios-plazavip/t1/1748021533iphone16eback1png?scale=50&qlty=75',
-  precio: '—',
-  plan: '—',
+  precio: '$1,331 Mensual',
+  plan: 'Black a 24 meses con 35% de emganche',
   caracteristicas: [
     'Pantalla 6.1" Super Retina XDR',
     'Cámara dual 48 MP + 12 MP',
@@ -251,29 +251,33 @@ const equipos = [
     'Batería con hasta 20h de video',
     'iOS 18',
     'Face ID mejorado'
+    'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
 {
   nombre: 'Apple iPhone 17 Pro 256GB Azul Profundo',
   imagen: 'https://assets.encargomio.com/img/products/iPhone_17_Pro_256GB_Azul_Profundo/17582265572.png',
-  precio: '$1,500',
-  plan: 'BLACK A 24 MESES CON $8417 DE ENGACHE*',
+  precio: '$1,500 Mensual',
+  plan: 'Black a 24 meses con 35% de engache',
   caracteristicas: [
     'Pantalla 6.3" ProMotion 1-120Hz',
     'Cámara triple 48 MP Pro Max',
     'Procesador Apple A19 Pro',
     'Titanium Series 3',
     'iOS 19',
-    'USB-C Thunderbolt'
+    'USB-C Thunderbolt ,
+    'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
 {
   nombre: 'Apple iPhone 17 Pro 512GB Naranja Cósmico',
   imagen: 'https://www.pngall.com/wp-content/uploads/20/iPhone-17-Pro-Max-Concept-Art-PNG.png',
-  precio: '—',
-  plan: '—',
+  precio: '$1,573 Mensual',
+  plan: 'Black a 36 meses con 35% de engache',
   caracteristicas: [
     'Pantalla 6.3" ProMotion',
     'Cámara 48 MP + 48 MP + 48 MP',
@@ -281,14 +285,16 @@ const equipos = [
     'Carga rápida 30W',
     'iOS 19',
     'Resistencia IP68'
+    'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS' 
   ]
 },
 
 {
   nombre: 'Apple iPhone 17 Pro 512GB Plata',
   imagen: 'https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/iphone-17-pro-17-pro-max-hero.png',
-  precio: '—',
-  plan: '—',
+  precio: '$1,573 Mensual',
+  plan: 'Black a 36 meses con 35% de engache',
   caracteristicas: [
     'Pantalla OLED ProMotion',
     'Chip A19 Pro',
@@ -296,6 +302,8 @@ const equipos = [
     'Titanio pulido',
     'Batería mejorada',
     'iOS 19'
+    'SEGURO DE PROTECCIÓN',
+    'CONTROL DE DATOS'
   ]
 },
 
